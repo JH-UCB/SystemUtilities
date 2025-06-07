@@ -1,24 +1,24 @@
 ```
 .
 ├── create-python-environments
-│   └── conda_create_script.sh
+│   └── conda-create-script.sh
 ├── discover-python-classes
 │   └── class-and-function-inspection.ipynb
 ├── discover-python-environments
-│   ├── conda_list_env_details.sh
-│   ├── macOS get PATH variables.ipynb
-│   ├── macOS list python versions.ipynb
-│   └── macOS pip dependency manager.ipynb
+│   ├── conda-list-env-details.sh
+│   ├── macOS-get-PATH-variables.ipynb
+│   ├── macOS-list-python-versions.ipynb
+│   └── macOS-pip-dependency-manager.ipynb
 ├── media-conversion
-│   ├── convert_flv_to_mp4
-│   │   ├── convert_flv_to_mp4.sh
+│   ├── convert-flv-to-mp4
+│   │   ├── convert-flv-to-mp4.sh
 │   │   └── README.md
-│   └── pdf_converter
+│   └── pdf-converter
 │       └── nbconvert.sh
 ├── monitoring
-│   ├── active resource monitoring.ipynb
 │   ├── active-resource-monitor.py
-│   └── active-resource-monitor.sh
+│   ├── active-resource-monitor.sh
+│   └── active-resource-monitoring.ipynb
 └── README.md
 
 7 directories, 13 files
