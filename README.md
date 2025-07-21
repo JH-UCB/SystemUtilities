@@ -1,5 +1,20 @@
 ```
 .
+├── cheat-sheets
+│   ├── docker-commands.md
+│   ├── dockerfile-reference.md
+│   ├── fastapi-commands.md
+│   ├── git-commands.md
+│   ├── kubernetes-commands.md
+│   ├── kubernetes-yaml-cheat-sheet v1.md
+│   ├── kubernetes-yaml-cheat-sheet v2.md
+│   ├── linux-bash-commands.md
+│   ├── math-notation-reference.md
+│   ├── muCommander_hotkeys.txt
+│   ├── poetry-commands.md
+│   ├── pytest-commands.md
+│   ├── sql-commands.md
+│   └── statistical-tests-rerence.md
 ├── create-python-environments
 │   └── conda-create-script.sh
 ├── discover-python-classes
@@ -22,5 +37,5 @@
 │   └── active-resource-monitoring.ipynb
 └── README.md
 
-7 directories, 14 files
+8 directories, 28 files
 ```
