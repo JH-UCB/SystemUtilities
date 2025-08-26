@@ -6,11 +6,9 @@
 │   ├── fastapi-commands.md
 │   ├── git-commands.md
 │   ├── kubernetes-commands.md
-│   ├── kubernetes-yaml-cheat-sheet v1.md
 │   ├── kubernetes-yaml-cheat-sheet v2.md
 │   ├── linux-bash-commands.md
 │   ├── math-notation-reference.md
-│   ├── muCommander_hotkeys.txt
 │   ├── poetry-commands.md
 │   ├── pytest-commands.md
 │   ├── sql-commands.md
@@ -39,5 +37,4 @@
 │   └── active-resource-monitoring.ipynb
 └── README.md
 
-9 directories, 29 files
 ```
